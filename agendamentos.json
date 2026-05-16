@@ -1,0 +1,99 @@
+{
+  "85564489519138@lid_15/05/2026_21:30": {
+    "numero": "85564489519138@lid",
+    "nome": "leoo",
+    "servico": "Sobrancelha",
+    "duracao": 5,
+    "valor": 5,
+    "slots": 1,
+    "horario": "21:30",
+    "data": "15/05/2026",
+    "criadoEm": "2026-05-16T00:19:26.961Z",
+    "lembreteEnviado": true,
+    "agradecimentoEnviado": true
+  },
+  "8276620132600@lid_16/05/2026_10:30": {
+    "numero": "8276620132600@lid",
+    "nome": "Maykon manoel santana da silva",
+    "servico": "Corte",
+    "duracao": 45,
+    "valor": 30,
+    "slots": 3,
+    "horario": "10:30",
+    "data": "16/05/2026",
+    "criadoEm": "2026-05-16T13:16:08.790Z",
+    "lembreteEnviado": true,
+    "agradecimentoEnviado": true
+  },
+  "203405523964094@lid_16/05/2026_13:30": {
+    "numero": "203405523964094@lid",
+    "nome": "Wesley Paulo Pereira Bezerra",
+    "servico": "Corte + barba",
+    "duracao": 60,
+    "valor": 45,
+    "slots": 4,
+    "horario": "13:30",
+    "data": "16/05/2026",
+    "criadoEm": "2026-05-16T13:31:30.847Z",
+    "lembreteEnviado": true,
+    "agradecimentoEnviado": true
+  },
+  "257436111921387@lid_16/05/2026_11:15": {
+    "numero": "257436111921387@lid",
+    "nome": "Robson",
+    "servico": "Corte",
+    "duracao": 45,
+    "valor": 30,
+    "slots": 3,
+    "horario": "11:15",
+    "data": "16/05/2026",
+    "criadoEm": "2026-05-16T13:40:11.943Z",
+    "lembreteEnviado": true,
+    "agradecimentoEnviado": true
+  },
+  "193836219404316@lid_16/05/2026_17:45": {
+    "numero": "193836219404316@lid",
+    "nome": "Victor da Silva Cazé",
+    "servico": "Corte + barba",
+    "duracao": 60,
+    "valor": 45,
+    "slots": 4,
+    "horario": "17:45",
+    "data": "16/05/2026",
+    "criadoEm": "2026-05-16T14:41:43.931Z"
+  },
+  "263230106685576@lid_16/05/2026_14:30": {
+    "numero": "263230106685576@lid",
+    "nome": "Renato Vieira",
+    "servico": "Corte + barba terapia",
+    "duracao": 80,
+    "valor": 50,
+    "slots": 6,
+    "horario": "14:30",
+    "data": "16/05/2026",
+    "criadoEm": "2026-05-16T15:02:19.827Z",
+    "lembreteEnviado": true
+  },
+  "50246939897949@lid_16/05/2026_17:00": {
+    "numero": "50246939897949@lid",
+    "nome": "Walter b barros",
+    "servico": "Corte",
+    "duracao": 45,
+    "valor": 30,
+    "slots": 3,
+    "horario": "17:00",
+    "data": "16/05/2026",
+    "criadoEm": "2026-05-16T15:55:01.125Z"
+  },
+  "222986212745291@lid_20/05/2026_16:15": {
+    "numero": "222986212745291@lid",
+    "nome": "Carlos Alberto",
+    "servico": "Corte",
+    "duracao": 45,
+    "valor": 30,
+    "slots": 3,
+    "horario": "16:15",
+    "data": "20/05/2026",
+    "criadoEm": "2026-05-16T16:32:01.840Z"
+  }
+}
